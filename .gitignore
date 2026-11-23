@@ -1,10 +1,12 @@
+
+.venv/
 __pycache__/
 .ipynb_checkpoints/
 .env
-data/raw/*
-data/processed/*
 *.pyc
 *.zip
-*.pkl.venv/
-.venv/
-.venv/
+*.pkl
+
+data/raw/*
+data/processed/*
+
