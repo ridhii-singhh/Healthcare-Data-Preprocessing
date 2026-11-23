@@ -6,7 +6,3 @@ __pycache__/
 *.pyc
 *.zip
 *.pkl
-
-data/raw/*
-data/processed/*
-
